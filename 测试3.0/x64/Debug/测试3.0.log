@@ -1,0 +1,36 @@
+﻿  main.c
+  flight_generator.c
+  static.c
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\main.c(91,22): warning C4013: “getch”未定义；假设外部返回 int
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\main.c(103,36): warning C4013: “isprint”未定义；假设外部返回 int
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\main.c(103,51): warning C4013: “isspace”未定义；假设外部返回 int
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(246,27): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(249,27): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(252,28): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(256,41): warning C4244: “*=”: 从“const double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(262,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(265,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(268,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(274,35): warning C4305: “*=”: 从“double”到“float”截断
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(277,35): warning C4305: “*=”: 从“double”到“float”截断
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(286,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(289,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(295,34): warning C4305: “*=”: 从“double”到“float”截断
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(298,34): warning C4305: “*=”: 从“double”到“float”截断
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(306,28): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(309,28): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(312,27): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\flight_generator.c(317,54): warning C4244: “*=”: 从“const double”转换到“float”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(170,6): warning C4026: 使用形参表声明的函数
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(235,14): warning C4013: “getch”未定义；假设外部返回 int
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(828,6): warning C4029: 声明的形参表不同于定义
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1425,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1471,33): warning C4028: 形参 1 与声明不同
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1482,24): warning C4244: “return”: 从“time_t”转换到“long”，可能丢失数据
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1583,53): warning C4047: “函数”:“const char *”与“char (*)[30]”的间接级别不同
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1583,53): warning C4024: “Calculate_time”: 形参和实参 1 的类型不同
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1874,49): warning C4133: “函数”: 从“cuslist *”到“cusman *”的类型不兼容
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1855,21): warning C4101: “flight_Number”: 未引用的局部变量
+F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\static.c(1854,14): warning C4101: “flightNumber”: 未引用的局部变量
+  正在生成代码...
+  测试3.0.vcxproj -> F:\ffile\WeChat Files\wxid_ikz2yv273gwl22\FileStorage\File\2025-04\飞机航班4.1\x64\Debug\测试3.0.exe
